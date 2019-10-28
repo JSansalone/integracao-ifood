@@ -1,0 +1,146 @@
+.m-t-md{
+    margin-top:15px;
+}
+.m-b-md{
+    margin-bottom:15px;
+}
+.iconpdv{
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+.bt{
+
+}
+.imgicon{
+  border-color: Black;
+  width: 90px;
+  height: 100px;
+  border-radius: 10%;
+  margin-left:3px;
+  text-align: left;
+  margin-top:5px;
+}
+.dragdrop{
+  margin-left: 0px;
+  margin-top: 20px;
+  border: solid 2px;
+  border-color: black;
+  height: 250px;
+  width: 710px;
+  border-radius: 10px;
+}
+.item{
+  margin-left: 10px;
+  margin-top: 5px;
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+}
+#lista0{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #00DD00;
+}
+#lista1{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #CC00FF;
+}
+#lista2{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FFCC00;
+}
+
+#lista3{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FF0000;
+}
+#lista4{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FF0000;
+}
+#lista5{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FF0000;
+}
+#lista6{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FF0000;
+}
+#lista7{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FF0000;
+}
+#lista8{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FF0000;
+}
+#lista9{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FF0000;
+}
+#lista10{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FF0000;
+}
+#lista11{
+ width: 80px;
+ height:80px;
+   border-radius: 20px;
+   background-color: #FF0000;
+}
+#sortable ul.dragdrop {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+#sortable li {
+   float: left;
+   margin-left: 5px;
+}
+#sortable li a {
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 5px;
+   text-decoration: none;
+}
+ul#sortable {
+ list-style-type: none;
+}
+.label-header-dashboard {
+  font-weight: bold;
+  color: var(--midnightblue);
+}
+
+.label-secao-dashboard {
+  font-weight: bold;
+  color: var(--midnightblue);
+}
+
+.label-header {
+  font-weight: bold;
+  color: var(--midnightblue);
+}

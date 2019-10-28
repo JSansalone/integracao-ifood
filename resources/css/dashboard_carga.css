@@ -1,0 +1,94 @@
+.progress {
+    height: 20px;
+    margin: 0;
+    background-color: #ffffff;
+}
+
+.contextual-progress .progress {
+    height: 20px;
+    margin: 0;
+}
+
+.sem-margin-padding{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.dash-carga-cabecalho{
+    font-weight: bold;
+}
+
+.dash-carga-lista-tabelas{
+    width: 100%;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 0 0 2px 0;
+    margin: 0; !important;
+    padding: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.dash-carga-tabelas{
+    overflow: scroll;
+    height: 200px;
+}
+
+.dash-carga-tabela{
+    margin: 15px;
+    /*
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    */
+    padding: 10px;
+    background-color: #efefef;
+    -webkit-box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.75);
+}
+
+.dash-carga-tabela-nome-tabela{
+    float: left;
+}
+
+.dash-carga-tabela-horario-atualizacao{
+    float: right;
+    font-style: italic;
+}
+
+.dash-carga-tabela-progress-bar{
+}
+
+.dash-carga-concluido{
+    padding: 10px;
+}
+
+.dash-carga-concluido-imagem{
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+
+.dash-carga-concluido-texto{
+    margin: 0 auto;
+}
+
+.dash-carga-aguardando{
+    padding: 10px;
+}
+
+.dash-carga-aguardando-imagem{
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+
+.dash-carga-aguardando-texto{
+    margin: 0 auto;
+}
+
+.dash-carga-botao-cancelar{
+    margin: 5px;
+    padding-bottom: 0;
+    padding-top: 0;
+}

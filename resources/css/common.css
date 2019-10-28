@@ -1,0 +1,9 @@
+tr td .botao-alterar{
+	/*display: none;*/
+	visibility: hidden;
+	width: 100%;
+}
+tr:hover .botao-alterar{
+	/*display: inline;*/
+	visibility: visible;
+}
